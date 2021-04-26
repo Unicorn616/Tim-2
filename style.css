@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding-top: 800px;
+}
+.Tim{
+    width:175px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+#welcome{
+ position: absolute;
+    text-align: center;
+    height: 800px
+        color:white;
+    left:0;
+        right:0;
+    top:0;
+    bottom:0;
+        background:linear-gradient(#dc05f9 0%,#00f3ff 100%);
+    width: 100%;
+        height:100%;
+}
+h1{
+    font-size:40px;
+    font-family: inherit;
+    font-weight: 300;
+    line-height: 1.2;
+}
+#name{
+ font-size:30px;
+    font-family:cursive;
+    line-height: 1.2;   
+}
+h2{
+ font-size:30px;
+    font-family:monospace;
+    font-weight: 300;
+    line-height: 1.2;   
+}
+#bio{
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+}
+.line{
+    height:6px;
+    background-color: black;
+    width:70px;
+    margin: 8px auto;
+}
+p{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
